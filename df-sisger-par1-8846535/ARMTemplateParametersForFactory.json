@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-sisger-par1-8846535"
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"storageAccountTarea1_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "sql-ucb-sisger1-par1-8846535-brazil.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "free-sql-db-7130456"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "chris-quiroz"
+		},
+		"storageAccountTarea1_properties_typeProperties_url": {
+			"value": "https://sasisgerpar18846535.dfs.core.windows.net/"
+		}
+	}
+}
