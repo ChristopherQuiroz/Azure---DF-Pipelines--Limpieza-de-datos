@@ -1,0 +1,15 @@
+{
+	"name": "df-sisger-par1-8846535",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "944ac3a3-a687-4798-95be-98dd4137ccdc",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
